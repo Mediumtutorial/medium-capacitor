@@ -1,0 +1,7 @@
+{
+  "name": "mediumcapacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

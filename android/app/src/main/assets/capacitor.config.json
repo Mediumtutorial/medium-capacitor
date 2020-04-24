@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.mediumcapacitor",
+  "appName": "mediumcapacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
